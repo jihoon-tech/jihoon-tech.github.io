@@ -142,7 +142,7 @@ nav .rightMenu > li:hover, nav .rightMenu > li.active{
 /* aside */
 section{
     float:left;
-    width: 100%;
+    width: 30%;
     height: 650px;
     padding: 30px 0;
     background: #fafafa;
@@ -151,7 +151,7 @@ section{
 
 /* #section1 */
 section{
-    width: 100%;
+    width: 70%;
     height: 650px;
     padding: 30px 0;
     background: #fafafa;
